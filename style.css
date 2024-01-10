@@ -94,19 +94,19 @@ article.active{
         margin-left:10%;
     }
     .button-container{
-        width:80%;
+        width:81%;
         margin-left:10%;
         margin-top:50px;
         background: transparent;
     }
     .btn{
-        width:100px;
+        width:27%;
     }
     .content-container{
-        width:80%;
+        width:81%;
         margin-left:10%;
     }
     .content{
-        width:80%;
+        width:80%
     }
 }
